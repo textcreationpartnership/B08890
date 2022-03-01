@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funeral elegy humbly dedicated to the renowned memory of the honourable, Thomas Danforth Esq. of Cambridge, sometimes deputy governour in the colony of the Massachusetts-Bay, and president of the province of main; and one of His Majesties honourable council.  Judge of the superiour court in the providence of the Massachusetts-Bay in New England; who (after he had long served his generation by the will of God in several high stations) did to our inconceivable loss, but his unparallel'd gain, rest from all his labours, on the sacred day of rest, the memorable 5th of November : Anno Domini. 1699.</title>
+            <author>Danforth, John, 1660-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08890</idno>
+            <idno type="STC">Wing D171A</idno>
+            <idno type="STC">ESTC W17421</idno>
+            <idno type="EEBO-CITATION">64551152</idno>
+            <idno type="OCLC">ocm 64551152</idno>
+            <idno type="VID">184509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184509)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2866:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funeral elegy humbly dedicated to the renowned memory of the honourable, Thomas Danforth Esq. of Cambridge, sometimes deputy governour in the colony of the Massachusetts-Bay, and president of the province of main; and one of His Majesties honourable council.  Judge of the superiour court in the providence of the Massachusetts-Bay in New England; who (after he had long served his generation by the will of God in several high stations) did to our inconceivable loss, but his unparallel'd gain, rest from all his labours, on the sacred day of rest, the memorable 5th of November : Anno Domini. 1699.</title>
+                  <author>Danforth, John, 1660-1730.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Boston :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: John Danforth.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Danforth, Thomas, 1622-1699 --  Death and burial.</term>
+               <term>Elegiac poetry --  Massachusetts --  Early works to 1800.</term>
+               <term>Broadsides --  Massachusetts --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:184509:1" rendition="simple:additions"/>
+            <head>A FUNERAL ELEGY Humbly Dedicated to the Renowned Memory of the HONORABLE, Thomas Danforth Eſq. Of <hi>Cambridge,</hi> Sometimes Deputy GOVERNOUR in the Colony of the <hi>Maſſachuſetts-Bay,</hi> and Preſident of the Province of <hi>Main;</hi> and One of His Majeſties Honour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble COUNCIL, Judge of the Superiour Court in the Province of the <hi>Maſſachuſetts-Bay in New England;</hi> Who (after He had long Served His Generation by the Will of GOD in ſeveral High Stations) Did to our Inconceivable Loſs, but His Unparallel'd Gain, Reſt from all His Labours, on the Sacred Day of Reſt, the Memorable 5th. of <hi>November: Anno Domini.</hi> 1699. <hi>Aetatis Suae,</hi> 77. <hi>Ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os, Onus: Mors, Pax.</hi>
+            </head>
+            <lg>
+               <l>JUDGE of the Quick and <hi>Dead</hi> I am not, Yet</l>
+               <l>HIM and my ſelf ſhould very much <hi>forget</hi>
+               </l>
+               <l>If that I ſhould decline the <hi>Bench</hi> to take</l>
+               <l>Nor give my ſence and ſentence of this Fate.</l>
+               <l>Pardon me, <hi>Sir;</hi> 'Twere better firſt to <hi>Die</hi>
+               </l>
+               <l>Than prove Diſloyal to your Memorie</l>
+               <l>'Tis <hi>Conſcience</hi> gives Commiſſion not t' be Mute</l>
+               <l>Juſtice and Gratitude ſhall Execute.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Iſle</hi> which (<hi>Alfred</hi> ſings) no Help deſires,</l>
+               <l>Yet all the <hi>World</hi> ſupply from Her requires</l>
+               <l>Able to Glut <hi>King Solomon</hi> with Pleaſures</l>
+               <l>And Surfeit Great <hi>Auguſtus</hi> with Her Treaſures:</l>
+               <l>Whence the Firſt Chriſtian <hi>Emperour</hi> did ſpring</l>
+               <l>And ſince that, Many an <hi>Heroe,</hi> Many a <hi>King</hi>
+               </l>
+               <l>Rich in all Merchandize: More Rich in <hi>Men:</hi>
+               </l>
+               <l>(Scarce ſuch an Iſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd in the <hi>World</hi> agen:)</l>
+               <l>And whence <hi>New England</hi> ſprang It did produce</l>
+               <l>
+                  <hi>Him,</hi> to this Land who was of Glorious Uſe.</l>
+               <l>
+                  <hi>He,</hi> Nature drew from <hi>Him</hi> whom Grace Divine,</l>
+               <l>Rather than Worldly Grandieur, made to Shine.</l>
+               <l>Who urg'd to <hi>Knight</hi> Him, Him, He follow'd not</l>
+               <l>Follow'd a Greater <hi>King,</hi> to <hi>Deſart</hi> Lot;</l>
+               <l>Like <hi>Marſacus,</hi> when He ſaw Saints to Goe</l>
+               <l>Would fain be <hi>Knight</hi> of their Wing'd <hi>Order</hi> too.</l>
+               <l>Such was His <hi>Father:</hi> And poor <hi>Framingham</hi>
+               </l>
+               <l>Loſt a Choice <hi>Lecture</hi> when He hither came</l>
+               <l>By Prophets Preach'd; But He procur'd the ſame.</l>
+               <l>After His Father's Death <hi>This Son</hi> was bleſs'd,</l>
+               <l>Rudeneſs and Lewdneſs much He did Deteſt;</l>
+               <l>Fear'd God from's Youth, like good Prince <hi>Obadiah</hi>
+               </l>
+               <l>An Early Convert, like Renown'd <hi>Joſiah.</hi>
+               </l>
+               <l>Glowing His <hi>Love:</hi> moſt Veh'ment His <hi>Deſire</hi>
+               </l>
+               <l>Like Coals of Juniper and Flames of Fire,</l>
+               <l>To <hi>Jacobs Portion:</hi> Angels, Powers, Life, Death</l>
+               <l>Heights, Depths, could not put either out of breath</l>
+               <l>Harnaſs'd and Rigg'd with th' Chriſtian <hi>Panoplie;</hi>
+               </l>
+               <l>Well under girt with ſound <hi>Sincerity:</hi>
+               </l>
+               <l>In every State, undelug'd, could Sail Right;</l>
+               <l>His <hi>Anchor</hi> held, on ſomething out of Sight.</l>
+               <l>Left not his Sweets, when He Promotion wan</l>
+               <l>His Wine ſtill Cheer'd the Heart of <hi>God</hi> and <hi>Man</hi>
+               </l>
+               <l>His Speech well <hi>Seaſon'd</hi> both for <hi>Time</hi> and <hi>Grace</hi>
+               </l>
+               <l>For in His Soul, moſt Sav'ry <hi>Salt</hi> had Place.</l>
+               <l>He had an Art, He practis'd to the laſt,</l>
+               <l>What e'r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was Talk'd, in Spiritual mould to Caſt.</l>
+               <l>God's <hi>S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>uel</hi> He; 'Mongſt thoſe that on Him call</l>
+               <l>'Mongſt <hi>Thundring Hoſts,</hi> an Expert General:</l>
+               <l>Nobly Seraphick, and moſt Rapturous,</l>
+               <l>In Prayer; A Secon'd <hi>Theodoſius.</hi>
+               </l>
+               <l>What's Parent came Three Thouſand Miles, to Win</l>
+               <l>That, to neglect, He dare'd not Count no Sin.</l>
+               <l>God's <hi>Temple</hi> had Him, a Profeſſor Preſs'd</l>
+               <l>Gods <hi>Table</hi> found Him Young, a <hi>Worthy Gueſt.</hi>
+               </l>
+               <l>'Twas Time, a <hi>Vine</hi> Grew up on His Houſe ſide:</l>
+               <l>
+                  <hi>Withington's</hi> Halls afford this <hi>Saint</hi> a <hi>Bride</hi>
+               </l>
+               <l>Precious as Gold Their <hi>Faith,</hi> yet as Behov'd</l>
+               <l>'Twas by both Fining Pot and Furnace Prov'd;</l>
+               <l>Them Ten Rare Pledges, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arly fledg'd, forſook</l>
+               <l>And the Directeſt way to Heaven Took:</l>
+            </lg>
+            <lg>
+               <l>'Mongſt whom count Chief the Famous <hi>Samuel</hi>
+               </l>
+               <l>Whoſe Excellencies <hi>Englands</hi> both can Tell.</l>
+               <l>During that Wondrous Term of Seven times Seven,</l>
+               <l>Co heirs They Lived, of the Grace of Heaven.</l>
+            </lg>
+            <lg>
+               <l>Juſt in the Fiftieth year of <hi>Jubilee</hi>
+               </l>
+               <l>His Aged Virtuous <hi>Conſort</hi> vent out free,</l>
+               <l>Yet not ſo Free, as He <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Follow was,</l>
+               <l>And to o're take Her, me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds His Heavenly Pace.</l>
+            </lg>
+            <lg>
+               <l>'Twas His High Care when firſt He ſaw that Comet</l>
+               <l>Of Earthly Wealth ariſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> off from it.</l>
+               <l>I'ts Dreadful Fiety Tail; th' Intailment even</l>
+               <l>Of Difficulty in the way to Heaven;</l>
+               <l>That Sin bred Fate, can't courſe of Law out-root</l>
+               <l>A Goſpel Courſe, He found might greatly doe 't.</l>
+               <l>Saw on His Hand that Viper Venimous:</l>
+               <l>To Alms it temper'd, Made a <hi>Treacle</hi> thus</l>
+               <l>
+                  <hi>Honours</hi> to ſeek or ſhun H' was never buiſy.</l>
+               <l>His Head could bear <hi>Great Height</hi> &amp; not be Dizzy.</l>
+               <l>Bleſs'd by <hi>Bleſs'd Wilſon</hi> firſt on <hi>Bench</hi> when ſat</l>
+               <l>Regal'd with th' Anagram, <hi>Handſom for that.</hi>
+               </l>
+               <l>Edicts, Examples, and Sharp Puniſhment</l>
+               <l>States, warping from their Standard ought prevent.</l>
+               <l>Sagacious He betimes to Meet and Mate</l>
+               <l>Ill Humours, threatning to ſubvert the <hi>State.</hi>
+               </l>
+               <l>Flat fell They who would 'ſaid <hi>New-England</hi> flat;</l>
+               <l>Thank GOD &amp; th' MAN with Little Band, for That.</l>
+               <l>Him, and His Country, who would Waſt, in Haſt</l>
+               <l>He made Repent, Their Rents came in ſo faſt.</l>
+               <l>Iv'e ſome<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imes heard Him ſay that He had ever</l>
+               <l>As lieve dy by the Ax as by the Feaver;</l>
+               <l>In a Good cauſe, and with a Conſcience Good;</l>
+               <l>For <hi>Church</hi> &amp; <hi>State,</hi> ſo Truth's Great <hi>Champion</hi> ſtood.</l>
+               <l>Like <hi>Samuel</hi> Rode the <hi>Circuit</hi> Judg'd each Tribe,</l>
+               <l>And like Brave <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>muel,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook a Bribe.</l>
+               <l>So Good, Great, Wiſe, Juſt, Steady Truſty, Free;</l>
+               <l>We'l ne're want Men, while we have Such as Thee.</l>
+               <l>His Thoughts Pure <hi>Spirits</hi> were, He therefore us'd</l>
+               <l>
+                  <hi>Phyſician</hi> like, to give them, well infus'd</l>
+               <l>In ſome ſweet proper <hi>Vehicle</hi> of Wit,</l>
+               <l>Some Proverb, Story, Simile, moſt fit.</l>
+               <l>When Men of Senſe addres'd Him, 'twas His faſhion</l>
+               <l>
+                  <hi>Reaſons</hi> to ſhew, and leave the <hi>Application:</hi>
+               </l>
+               <l>And when ſome nimble Caſe out ran His <hi>Vicit,</hi>
+               </l>
+               <l>Still Gave forth Sentence, in a <hi>Nihil Dicit.</hi>
+               </l>
+               <l>Dangers, as ſoon as meant, He oft Suſpected</l>
+               <l>Forgers, He oft Sagaciouſly Detected:</l>
+               <l>At Helm in Tempeſts, yet His Courage Stout</l>
+               <l>'Though Dangers were Extream, would ne'v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r give out.</l>
+               <l>Of Them, like <hi>Nicodemus</hi> He was One,</l>
+               <l>And ſtood like Him, ſtout <hi>Proteſtant</hi> alone</l>
+               <l>'Gainſt a <hi>Committee,</hi> whoſe blind Indignation</l>
+               <l>Condemn'd the <hi>Beſt Men</hi> of that Generation.</l>
+               <l>I know not where to ſtop; His <hi>Courſe</hi> was thus</l>
+               <l>To make <hi>New Englands</hi> Journal Glorious:</l>
+               <l>Hath ſtood our Churches <hi>Pillar</hi> ever ſince,</l>
+               <l>Not wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hout <hi>Envy,</hi> for His Recompence.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Harvard!</hi> For <hi>Honourable,</hi> Thou muſt goe;</l>
+               <l>Who was thy Steward, Treaſurer, was ſoe:</l>
+               <l>Charg'd and Diſcharged were thy <hi>Quarter Bills,</hi>
+               </l>
+               <l>Drain'd not thy Stock, but with large Hundreds fills</l>
+               <l>A Bounteous <hi>Patron</hi> unto many a Plant</l>
+               <l>In thy fair Nurſery, whoſe Means were ſcant.</l>
+               <l>Reſolves ſo to continue, 'Spite of Death,</l>
+               <l>By <hi>Lands</hi> and <hi>Rents,</hi> His laſt <hi>Will</hi> witneſſeth.</l>
+            </lg>
+            <lg>
+               <l>Bring <hi>Tribute</hi> to thy <hi>Benefactors</hi> Duſt</l>
+               <l>To be <hi>Ungrateful</hi> is to be <hi>Unjuſt.</hi>
+               </l>
+               <l>
+                  <hi>Church Meſſengers <hi>Chriſts</hi>
+                  </hi> Glory are, ſo He</l>
+               <l>(In that Relation,) oft was ſeen to be;</l>
+               <l>Nor was 't a Shame for a Profeſs'd Divine,</l>
+               <l>To be beholden to His Golden Mine.</l>
+               <l>So well-read in all Points, Men of beſt faſhion,</l>
+               <l>Unto His Judgment pay'd a Veneration.</l>
+               <l>When <hi>Church Diſturbances</hi> requir'd His Beſt</l>
+               <l>He ſignally with great <hi>Succeſs</hi> was Bleſs'd.</l>
+            </lg>
+            <lg>
+               <l>In's <hi>Family</hi> as exact Order's ſeen,</l>
+               <l>As if that it a Soveraign State had been:</l>
+               <l>Reading, Inſtruction, Prayer, and Repetition</l>
+               <l>So conſtant were, You'd envy <hi>their</hi> Condition.</l>
+               <l>From <hi>Families</hi> would Spring <hi>New Englands</hi> Bliſs</l>
+               <l>Might all be taught and Govern'd as was His.</l>
+               <l>Great is the <hi>Loſs</hi> of ſuch a <hi>Man</hi> as This!</l>
+               <l>Full of <hi>Good Works,</hi> not therefore void of Fears;</l>
+               <l>No Works ſo Good but call for Faſts and Tears;</l>
+               <l>Juſtification through His Saviours Blood,</l>
+               <l>And Righteouſneſs, (His <hi>Aged Souls</hi> laſt Food,</l>
+               <l>His Readings, Meditations, there, were ſpent</l>
+               <l>So Views His <hi>Title,</hi> and Receives <hi>Content.</hi>
+               </l>
+               <l>Like <hi>Solomon,</hi> All Gainful <hi>Arts</hi> He trys</l>
+               <l>To Dye in Chriſt, Beſt <hi>Gain</hi> He finds; ſo Dies.</l>
+               <l>His <hi>Arms:</hi> On Gold, the ſingle opened Eye,</l>
+               <l>(Man's Noble Part) imports <hi>Sincerity,</hi>
+               </l>
+               <l>And <hi>Wiſdom</hi> too: That Gemm the Di'mond dwells</l>
+               <l>
+                  <hi>Invulnerate,</hi> 'though it cutts all things elſe.</l>
+            </lg>
+            <lg>
+               <l>He left with's Children Dear a Num'rous Race,</l>
+               <l>Lord! Give 'em Portions of their Grandſire's Grace</l>
+               <l>
+                  <hi>Thouſands</hi> up ſpringing ſo, in His rich Heap</l>
+               <l>Shall Love Thy Name, &amp; Thy Commandments keep.</l>
+            </lg>
+            <closer>Amen.</closer>
+            <closer>
+               <signed>Iohn Danforth.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
